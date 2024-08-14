@@ -1,1 +1,10 @@
-
+@import url('https://fonts.googleapis.com/css2?family=New+Amsterdam&display=swap');
+body{
+    font-family:New Amsterdam;
+    background-color:cyan;
+    font-size:200%;
+    text-align:center;
+    text-shadow: 2px 2px 2px white;
+}
+div{
+    background-image:url
